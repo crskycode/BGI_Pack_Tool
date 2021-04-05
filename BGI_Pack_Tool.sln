@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BGI_Pack_Tool", "BGI_Pack_Tool.csproj", "{50CE61AA-F0F7-4FAF-ADB9-2B64EA257EC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50CE61AA-F0F7-4FAF-ADB9-2B64EA257EC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50CE61AA-F0F7-4FAF-ADB9-2B64EA257EC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50CE61AA-F0F7-4FAF-ADB9-2B64EA257EC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50CE61AA-F0F7-4FAF-ADB9-2B64EA257EC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {793240FD-0C85-4BED-BD4F-B6BEB51755E5}
+	EndGlobalSection
+EndGlobal
